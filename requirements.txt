@@ -1,4 +1,0 @@
-psutil
-wmi
-pywin32
-python-nmap
