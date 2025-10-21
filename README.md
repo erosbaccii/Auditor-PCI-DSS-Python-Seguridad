@@ -1,4 +1,4 @@
-Auditor Python Seguridad – Community Edition 🛡️
+Auditor Python Seguridad – Community Edition 
 
 Versión demostrativa educativa del auditor y analizador de seguridad en Windows orientado a Blue Team.
 
