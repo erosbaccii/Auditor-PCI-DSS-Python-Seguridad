@@ -11,11 +11,23 @@ Descripción
 Esta es la versión Community del proyecto Auditor Python Seguridad, desarrollada con fines educativos y de demostración.
 Permite evaluar conceptos básicos de auditoría en sistemas Windows, mostrando parte de las capacidades del sistema completo:
 
-Detección de soluciones antimalware registradas (WMI).
 
-Identificación de servicios inseguros.
+La versión completa (privada/comercial) incluye:
 
-La versión completa (privada/comercial) incluye auditorías completas de políticas, cuentas, contraseñas, integridad, sincronización horaria, y generación automática de reportes PCI-DSS.
+-Detección de soluciones antimalware registradas (WMI).
+-Identificación de servicios inseguros.
+-La versión completa (privada/comercial) incluye:
+-Auditorías completas de políticas, cuentas y contraseñas.
+-Comprobaciones de integridad.
+-Sincronización horaria.
+-Escaneos opcionales de puertos con nmap (requiere python-nmap y el binario nmap).
+-Detección de soluciones antimalware registradas (WMI).
+-Identificación de servicios críticos e inseguros.
+-Verificación de cuentas predeterminadas y prueba IPC$.
+-Lectura de políticas locales (secedit) para evaluar la política de contraseñas.
+-Detección de agentes SIEM/FIM y comprobación del servicio EventLog.
+-Generación automática de reportes TXT/CSV con evidencias.
+-Generación de reportes PCI‑DSS.
 
 ⚙️Requisitos
 
