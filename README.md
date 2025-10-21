@@ -1,4 +1,4 @@
-Auditor Python Seguridad – Community Edition 
+Auditor Python Seguridad – Community Edition 🛡️
 
 Versión demostrativa educativa del auditor y analizador de seguridad en Windows orientado a Blue Team.
 
@@ -6,7 +6,7 @@ Autor: Eros Baccigalupi
 Año: 2025
 Licencia: MIT (solo esta edición)
 
-Descripción
+📝Descripción
 
 Esta es la versión Community del proyecto Auditor Python Seguridad, desarrollada con fines educativos y de demostración.
 Permite evaluar conceptos básicos de auditoría en sistemas Windows, mostrando parte de las capacidades del sistema completo:
