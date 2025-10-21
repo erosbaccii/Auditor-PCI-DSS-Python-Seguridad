@@ -11,12 +11,9 @@ Descripción
 Esta es la versión Community del proyecto Auditor Python Seguridad, desarrollada con fines educativos y de demostración.
 Permite evaluar conceptos básicos de auditoría en sistemas Windows, mostrando parte de las capacidades del sistema completo:
 
-
 La versión completa (privada/comercial) incluye:
 
 -Detección de soluciones antimalware registradas (WMI).
--Identificación de servicios inseguros.
--La versión completa (privada/comercial) incluye:
 -Auditorías completas de políticas, cuentas y contraseñas.
 -Comprobaciones de integridad.
 -Sincronización horaria.
